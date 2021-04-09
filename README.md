@@ -5,5 +5,5 @@ Example code for terrain traversability prediction using Undirected Graphical Mo
 ## Inference
 
 Inference code [UGM by Mark Schmidt](https://www.cs.ubc.ca/~schmidtm/Software/UGM.html)
-Use `git status` to list all new or modified files that haven't yet been committed.
-Please read the **description.pdf** for understanding 'terrain_belief_propagation.m'.
+
+Please read the **description.pdf** for understanding `terrain_belief_propagation.m`.
